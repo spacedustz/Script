@@ -19,7 +19,7 @@
 
 ## 📂 Jenkins
 
-> **Jenkins Declarative Pipeline & Docker & Nginx를 이용한 Blue/Green 무중단 배포 스크립트 **
+> **Jenkins Declarative Pipeline & Docker & Nginx를 이용한 Blue/Green 무중단 배포 스크립트**
 
 - **Server.sh** : RedHat 기반 Server Setting 스크립트
 - **Dockerfile** : OpenJDK 이미지 베이스로 내부 명렁어 실행
